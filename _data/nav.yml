@@ -1,12 +1,12 @@
 main:
     - { url: '/', text: 'Home' }
-    - { url: '/about/', text: 'About' }
-    - { url: '/membership/', text: 'Membership' }
-    - { url: '/what-we-do/', text: 'What We Do' }
-    - { url: '/resources/', text: 'Resources' }
+    - { url: 'about/', text: 'About' }
+    - { url: 'membership/', text: 'Membership' }
+    - { url: 'what-we-do/', text: 'What We Do' }
+    - { url: 'resources/', text: 'Resources' }
     - { url: 'http://southsudanngoforum.org/3w', text: '3W Presence' }
-    - { url: '/frequently-asked-questions/', text: 'FAQs' }
-    - { url: '/contact-us/', text: 'Contact Us' }
+    - { url: 'frequently-asked-questions/', text: 'FAQs' }
+    - { url: 'contact-us/', text: 'Contact Us' }
 
 # forms & links
 membership_registration_form: ""
