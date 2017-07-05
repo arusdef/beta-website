@@ -1,0 +1,20 @@
+staff:
+  - title: "Coordinator"
+    name: "Pius Ojara"
+    email: "coordinator@southsudanngoforum.org"
+
+  - title: "National NGO Focal Point"
+    name: "Hafeez Wani"
+    email: "nngo-fp@southsudanngoforum.org"
+
+  - title: "Security Focal Point"
+    name: "Chris Gosney"
+    email: "security@southsudanngoforum.org"
+
+  - title: "Information Manager"
+    name: "Kenneth Muturi"
+    email: "infomgr@southsudanngoforum.org"
+
+  - title: "NNGO Information Officer"
+    name: "Paul Doctor"
+    email: "nngo-info@southsudanngoforum.org"

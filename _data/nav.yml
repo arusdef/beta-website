@@ -1,0 +1,41 @@
+main:
+    - { url: '/', text: 'Home' }
+    - { url: '/about/', text: 'About' }
+    - { url: '/membership/', text: 'Membership' }
+    - { url: '/what-we-do/', text: 'What We Do' }
+    - { url: '/resources/', text: 'Resources' }
+    - { url: 'http://southsudanngoforum.org/3w', text: '3W Presence' }
+    - { url: '/frequently-asked-questions/', text: 'FAQs' }
+    - { url: '/contact-us/', text: 'Contact Us' }
+
+# forms & links
+membership_registration_form: ""
+
+# https://docs.google.com/forms/d/1rICS4K_w2WpXDss0B-gb74j_9kgDy4oODi13IKOq6wc/viewform?usp=send_form
+report_security_incident_form : "https://docs.google.com/spreadsheet/viewform?formkey=dFNlWXFFRTBSSFNvbWpKVlMwZlVPMnc6MQ"
+access_constraint_form: "https://docs.google.com/a/southsudanngoforum.org/forms/d/13xBnAkH07grMOqrsCIobWxteX5wmrS5f0xOl-x88k0w/viewform"
+emergency_relocation_form: "https://docs.google.com/a/southsudanngoforum.org/forms/d/14dEkJF3oIA_LmlNq6FBVD5YpuRW8lwABQ1_0pfvUeF0/viewform?"
+sexual_violence_form: "https://docs.google.com/forms/d/e/1FAIpQLScfEwG-JXWsuFr5gqIpqAI5m3EirB1sQ7GX2Y52yM102tvNIg/viewform"
+    
+operational_presence:    
+    - { text: 'update_3W_form', "url": "https://docs.google.com/forms/d/1MNdkBKzR7CA9T8jLGevGpCGJYpPsod9-ps8uyH6336A/viewform?usp=send_form" }
+
+job_adverts_link: "http://comms.southsudanngoforum.org/c/jobs"
+mailinglist_link: "http://comms.southsudanngoforum.org/"
+tenders_link: "http://comms.southsudanngoforum.org/c/tenders"
+
+knowledge_network_link: "http://docs.southsudanngoforum.org/sskn"
+capacity_development_link: "http://comms.southsudanngoforum.org/c/capacity-development"
+courses_and_trainings_link: "http://comms.southsudanngoforum.org/c/capacity-development"
+
+#documents
+coordination_documents_link: "http://docs.southsudanngoforum.org/coordination"
+security_documents_link: "http://docs.southsudanngoforum.org/security"
+legislation_documents_link: "http://docs.southsudanngoforum.org/regulation"
+
+ingo_operation_presence_link: "http://docs.southsudanngoforum.org/regulation"
+nngo_operation_presence_link: "http://docs.southsudanngoforum.org/regulation"
+nngo_capacity_tool: "http://nngocaptool.org/"
+
+
+
