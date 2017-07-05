@@ -1,5 +1,5 @@
 <ul>
 	{% for link in site.data.nav.main %}
-	<li {% if page.url == link.url %} class="active" {% endif %}><a href="{{ link.url | prepend: site.data.global.url }}">{{ link.text }}</a></li>
+	<li {% if page.url == link.url %} class="active" {% endif %}><a href="{{ link.url }}">{{ link.text }}</a></li>
 	{% endfor %}
 </ul>
