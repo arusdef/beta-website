@@ -38,7 +38,7 @@
 <header id="header" class="{% if page.url == '/' %}home-page{% else %}other-pages{% endif %} purple">
     <div class="q-container">
         <div id="logo">
-            <a href="/"><img class="img-responsive" src="assets/img/ss-ngo-forum-logo.png" alt="South Sudan NGO FORUM"></a>
+            <a href="{{ site.data.global.url }}"><img class="img-responsive" src="assets/img/ss-ngo-forum-logo.png" alt="South Sudan NGO FORUM"></a>
         </div>
         <nav id="nav">
             <a href="#" id="nav-toggle" title="Navigation"><i class="fa fa-bars"></i></a>
@@ -79,14 +79,14 @@
                     {% include nav.html %}
                 </nav>
                 <nav id="nav-footer-secondary">
-                    <a href="/what-we-do/membership-policy" class="btn-link" target="_blank">Membership Policy</a> | 
-                    <a href="/privacy" class="btn-link" target="_blank">Privacy Policy</a> | 
-                    <a href="/terms-of-use" target="_blank">Terms of Use</a>
+                    <a href="what-we-do/membership-policy" class="btn-link" target="_blank">Membership Policy</a> | 
+                    <a href="privacy" class="btn-link" target="_blank">Privacy Policy</a> | 
+                    <a href="terms-of-use" target="_blank">Terms of Use</a>
                 </nav>
                 <p class="footer-info">&copy; Copyright {{ 'now' | date: "%Y" }} {{ site.data.global.title }} | All rights Reserved</p>
             </div>
             <div class="q-col-1-3">
-                <a href="#" class="footer-logo"><img src="assets/img/ss-ngo-forum-logo.png" alt=""></a>
+                <a href="{{ site.data.global.url }}" class="footer-logo"><img src="assets/img/ss-ngo-forum-logo.png" alt=""></a>
             </div>
         </div>
     </div>
