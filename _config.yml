@@ -7,6 +7,8 @@ data_dir: ./_data
 pages_dir: ./_pages
 # collections: null
 
+baseurl: "http://southsudanngoforum.org/beta-website/"
+
 # Handling Reading
 safe:         false
 include:      [".htaccess", "_pages"]
