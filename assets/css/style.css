@@ -611,7 +611,8 @@ p {
 	background-size: 30%;
 }
 #hero .box-join {
-	min-height: 380px;
+	/*min-height: 380px;*/
+	min-height: 300px;
 	padding: 30px;
 	background-color: #6c4d80;
 }
@@ -622,6 +623,12 @@ p {
 #hero .box-join div[class*='q-col-'] {
 	padding: 5px;
 }
+#hero .box-join.simple-half > p {
+    font-size: 80%;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
 #hero input,
 #hero button {
 	width: 100%;
@@ -1981,9 +1988,9 @@ h2.resp-tab-active:before {
 	font-weight: 700;
 	text-transform: uppercase;
 }
-#footer #nav-footer-secondary {
+#footer #nav-footer-secondary a {
 	font-size: 0.857em;
-	color: #fff;
+	color: #8dd1fa;
 }
 #footer #nav-footer-secondary li:after {
 	padding: 0 10px;

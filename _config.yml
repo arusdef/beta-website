@@ -1,3 +1,5 @@
+mode: development # production
+
 # Where things are
 source:      .
 destination: ./_site
@@ -32,7 +34,7 @@ gems:
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "http://southsudanngoforum.org/beta-website/"
+baseurl: ""
 
 # Outputting
 permalink:     /:title.html

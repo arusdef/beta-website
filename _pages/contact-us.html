@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+slogan: We are here to help
 permalink: /contact-us/
 ---
 <div class="q-row">
@@ -38,10 +39,6 @@ permalink: /contact-us/
         <h3>Contact Respective Secretariat Staff</h3>
         <table class="light-table events-table">
             <tbody>
-                <tr>
-                    <th>Location</th>
-                    <th class="text-right">Date</th>
-                </tr>
                 {% for item in site.data.contacts.staff %}
                 <tr>
                     <td><a><strong>{{ item.name }}</strong></a><br>{{ item.title }}</td>

@@ -72,15 +72,14 @@
 				</div>
 				<div class="q-col-2-3 wow animated fadeInUp" data-wow-duration="0.5s" data-wow-offset="200">
 					<div id="social-slider" class="simple-slider">
-						<div class="simple-slide">
-							<div class="social-update">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<a href="#">#SSNGOForum</a></div>
+					{% for testimony in site.data.testimonials %}
+						<div class="simple-slide">	
+							<div class="social-update">
+								{{ testimony.description }}
+								<a href="#">{{ testimony.email }}</a>
+							</div>
 						</div>
-						<div class="simple-slide">
-							<div class="social-update">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua <a href="#">#SSNGOForum</a></div>
-						</div>
-						<div class="simple-slide">
-							<div class="social-update">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#">#SSNGOForum</a></div>
-						</div>
+					{% endfor %}
 					</div>
 				</div>
 			</div>
