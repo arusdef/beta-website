@@ -1,4 +1,4 @@
-mode: development # production
+mode: production
 
 # Where things are
 source:      .
