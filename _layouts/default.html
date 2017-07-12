@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <base href="{% if jekyll.environment == 'development' %}{{ site.data.global.dev_url }}{% else %}{{ site.data.global.url }}{% endif %}" />
+    <base href="{{ site.baseurl }}" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html', '' | prepend: site.data.global.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html', '' | prepend: site.baseurl }}">
     <link rel="icon" type="image/ico" href="/favicon.ico">
     
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
