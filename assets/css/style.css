@@ -411,7 +411,10 @@ p {
 	color: #0b93e3;
 	text-transform: none;
 }
-#nav a:hover, #nav li.active a {
+#nav a:hover {
+	background-color: #613d72;
+}
+#nav li.active a {
 	background-color: #513d72;
 }
 #nav a:hover span, #nav li.active a > span {
@@ -445,7 +448,7 @@ p {
 	background-image: url(../img/nav-arrow-right.png);
 	background-repeat: no-repeat;
 	background-position: 15px 61px;
-	background-color: #513d72;
+	background-color: #613d72;
 }
 #nav ul li:hover > a.sf-with-ul {
 	background-image: url(../img/nav-arrow-down.png);
@@ -1959,7 +1962,7 @@ h2.resp-tab-active:before {
 /* 5. Footer */
 #footer {
 	font-size: 0.875em;
-	color: #fff;
+	color: #0b233e;
 	background-color: #6c4d80;
 }
 #footer a {
@@ -1990,7 +1993,7 @@ h2.resp-tab-active:before {
 }
 #footer #nav-footer-secondary a {
 	font-size: 0.857em;
-	color: #8dd1fa;
+	color: #0b233e;
 }
 #footer #nav-footer-secondary li:after {
 	padding: 0 10px;

@@ -2,7 +2,7 @@ main:
     - { url: '/', text: 'Home' }
     - { url: '/about/', text: 'About' }
     - { url: '/membership/', text: 'Membership' }
-    - { url: '/circulars/', text: 'Circulars' }
+    - { url: '/what-we-do/', text: 'What We Do' }
     - { url: '/resources/', text: 'Resources' }
     - { url: 'http://southsudanngoforum.org/3w', text: '3W Presence' }
     - { url: '/frequently-asked-questions/', text: 'FAQs' }
