@@ -7,7 +7,7 @@
 		{% elsif link.subitems %}
 			{% assign pageurl = "#" %}
 		{% else %}
-			{% assign pageurl =  link.url | prepend:site.baseurl  %}
+			{% assign pageurl =  link.url | prepend:site.data.global.url %}
 		{% endif %}
 		<a href="{{ pageurl }}">{{ link.text }}</a>
     	{% if include.children and link.subitems %}
