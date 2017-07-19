@@ -31,7 +31,8 @@ a:hover {
 	color: #000000;
 }
 a img {
-	border: 0;
+	/*border: 0;*/
+	outline: none;
 }
 img {
 	max-width: 100%;
@@ -942,7 +943,7 @@ textarea.error {
 .home-articles .article-image {
 	margin-bottom: 1em;
 }
-.home-articles .article-image img {
+.article-image a > img {
 	display: block;
 	border: 1px solid #ddd;
 }
@@ -1050,8 +1051,9 @@ textarea.error {
 .content .article-grid .article-image {
 	margin-bottom: 1em;
 }
-.content .article-grid .article-image img {
+.content .article-grid .article-image a > img {
 	display: block;
+	border: 1px solid #ddd;
 }
 .content .article-grid .article-summary {
 	overflow: hidden;
