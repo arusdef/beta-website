@@ -1,5 +1,3 @@
-mode: production
-
 # Where things are
 source:      .
 destination: ./_site

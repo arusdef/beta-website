@@ -1,3 +1,5 @@
+mode: development
+
 # Admin Settings
 admin_name: 'Information Manager'
 admin_email: 'infomgr@southsudanngoforum.org '
