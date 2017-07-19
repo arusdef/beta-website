@@ -1,4 +1,4 @@
-mode: production
+mode: production 
 
 # Admin Settings
 admin_name: 'Information Manager'
