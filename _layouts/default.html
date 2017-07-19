@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {% if jekyll.environment == 'development' %}
+    {% if site.mode == 'development' %}
         {% assign theme_base_url = site.data.global.dev_url %}
     {% else %}
         {% assign theme_base_url = site.data.global.url %}
