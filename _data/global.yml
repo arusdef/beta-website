@@ -1,4 +1,4 @@
-mode: development
+mode: production
 
 # Admin Settings
 admin_name: 'Information Manager'
@@ -19,13 +19,6 @@ color:
   primary: 303030 #18bc9c #80B3FF
   secondary: 6C4D80 #FD6E8A
   secondary-dark: 303030 #A2122F
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address: Concern Worldwide Offices Airport Road, Opp. Ebony International Bank, Juba, South Sudan

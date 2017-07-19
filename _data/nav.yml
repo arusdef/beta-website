@@ -15,9 +15,11 @@ main:
       - text: 'Policy'
         url: '/what-we-do/policy/'
       - text: 'External Engagement'
-        url: '/what-we-do/coordination/'
+        url: '/what-we-do/external-engagement/'
       - text: 'INGO-NNGO Networking'
         url: '/what-we-do/ngo-networking/'
+      - text: 'NNGO Coordination'
+        url: '/what-we-do/nngo-coordination/'
   - text: 'Resources'
     url: '/resources/'
   - text: '3W Presence'
@@ -28,7 +30,7 @@ main:
     url: '/contact-us/'
 
 # forms & links
-membership_registration_form: ""
+membership_registration_form: "https://goo.gl/forms/XYcswkyOXJMBEBfL2"
 
 # https://docs.google.com/forms/d/1rICS4K_w2WpXDss0B-gb74j_9kgDy4oODi13IKOq6wc/viewform?usp=send_form
 report_security_incident_form : "https://docs.google.com/spreadsheet/viewform?formkey=dFNlWXFFRTBSSFNvbWpKVlMwZlVPMnc6MQ"

@@ -4,11 +4,13 @@
 	<li{% if page.url == link.url %} class="active" {% endif %}>
 		{% if link.url contains 'http://' %}
 			{% assign pageurl = link.url %}
+		{% elsif link.subitems %}
+			{% assign pageurl = "#" %}
 		{% else %}
 			{% assign pageurl =  link.url | prepend:site.baseurl  %}
 		{% endif %}
 		<a href="{{ pageurl }}">{{ link.text }}</a>
-    	{% if include.children and link.subitems and navurl contains link.url %}
+    	{% if include.children and link.subitems %}
     		{% include nav.html nav=link.subitems %}
     	{% endif %}
     </li>

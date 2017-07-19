@@ -1,7 +1,3 @@
-- title: "Documents Repository"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://docs.southsudanngoforum.org/"
-
 - title: "Tender Advertisements"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://comms.southsudanngoforum.org/c/tenders" 
@@ -9,6 +5,38 @@
 - title: "Job Advertisements"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://comms.southsudanngoforum.org/c/jobs/" 
+
+- title: "Courses & Trainings"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://comms.southsudanngoforum.org/c/capacity-development" 
+
+- title: "Legislations & Regulations"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://docs.southsudanngoforum.org/regulation"
+
+- title: "coordination"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://docs.southsudanngoforum.org/coordination"
+
+- title: "Security Incidents"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "https://docs.google.com/forms/d/1rICS4K_w2WpXDss0B-gb74j_9kgDy4oODi13IKOq6wc/viewform?usp=send_form"
+
+- title: "Access Constrains"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/13xBnAkH07grMOqrsCIobWxteX5wmrS5f0xOl-x88k0w/viewform"
+
+- title: "Emergency Relocation Forms"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/14dEkJF3oIA_LmlNq6FBVD5YpuRW8lwABQ1_0pfvUeF0/viewform?"
+
+- title: "Incidents of Sexual Violence against Staff"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "https://docs.google.com/forms/d/e/1FAIpQLScfEwG-JXWsuFr5gqIpqAI5m3EirB1sQ7GX2Y52yM102tvNIg/viewform"
+
+- title: "Regulations"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://docs.southsudanngoforum.org/regulation"
 
 - title: "INGO Operational Presence 3W"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -18,10 +46,6 @@
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://southsudanngoforum.org/3w-nngo"
    
-- title: "Courses & Trainings"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://comms.southsudanngoforum.org/c/capacity-development" 
-
 - title: "South Sudan Knowledge Network"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://southsudanknowledgenetwork.org/"
