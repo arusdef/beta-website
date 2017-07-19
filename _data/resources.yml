@@ -1,11 +1,3 @@
-- title: "INGO Operational Presence 3W"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://southsudanngoforum.org/3w"
-
-- title: "NNGO Operational Presence 3W"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://southsudanngoforum.org/3w-nngo"
-   
 - title: "Documents Repository"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://docs.southsudanngoforum.org/"
@@ -18,6 +10,14 @@
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://comms.southsudanngoforum.org/c/jobs/" 
 
+- title: "INGO Operational Presence 3W"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://southsudanngoforum.org/3w"
+
+- title: "NNGO Operational Presence 3W"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://southsudanngoforum.org/3w-nngo"
+   
 - title: "Courses & Trainings"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://comms.southsudanngoforum.org/c/capacity-development" 

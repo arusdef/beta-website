@@ -5,7 +5,7 @@
 		{% if link.url contains 'http://' %}
 			{% assign pageurl = link.url %}
 		{% else %}
-			{% assign pageurl =  link.url | prepend: site.baseurl  %}
+			{% assign pageurl =  link.url | prepend:site.baseurl  %}
 		{% endif %}
 		<a href="{{ pageurl }}">{{ link.text }}</a>
     	{% if include.children and link.subitems and navurl contains link.url %}

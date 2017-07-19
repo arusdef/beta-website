@@ -18,8 +18,6 @@ main:
         url: '/what-we-do/coordination/'
       - text: 'INGO-NNGO Networking'
         url: '/what-we-do/ngo-networking/'
-      - text: 'Capacity Building'
-        url: '/what-we-do/capacity-development/'
   - text: 'Resources'
     url: '/resources/'
   - text: '3W Presence'
