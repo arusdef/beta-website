@@ -12,7 +12,7 @@ description: "An independent coordinating body of national and international NGO
 keywords: "South Sudan, NGO, NNGO, Information, Humanitarian, Development, Job, Vacancies, Coordination, Policy, Security"
 
 dev_url: http://localhost:4000/
-url: http://southsudanngoforum.org/beta-website/
+url: http://southsudanngoforum.org/beta-website
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
