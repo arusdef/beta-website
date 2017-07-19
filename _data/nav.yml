@@ -1,12 +1,33 @@
 main:
-    - { url: '/', text: 'Home' }
-    - { url: '/about/', text: 'About' }
-    - { url: '/membership/', text: 'Membership' }
-    - { url: '/what-we-do/', text: 'What We Do' }
-    - { url: '/resources/', text: 'Resources' }
-    - { url: 'http://southsudanngoforum.org/3w', text: '3W Presence' }
-    - { url: '/frequently-asked-questions/', text: 'FAQs' }
-    - { url: '/contact-us/', text: 'Contact Us' }
+  - text: 'Home'
+    url: '/'
+  - text: 'About'
+    url: '/about/'
+  - text: 'Membership'
+    url: '/membership/'
+  - text: 'What We Do'
+    url: '/what-we-do/'
+    subitems: 
+      - text: 'Information Sharing'
+        url: '/what-we-do/information-sharing/'
+      - text: 'Security'
+        url: '/what-we-do/security/'
+      - text: 'Policy'
+        url: '/what-we-do/policy/'
+      - text: 'External Engagement'
+        url: '/what-we-do/coordination/'
+      - text: 'INGO-NNGO Networking'
+        url: '/what-we-do/ngo-networking/'
+      - text: 'Capacity Building'
+        url: '/what-we-do/capacity-development/'
+  - text: 'Resources'
+    url: '/resources/'
+  - text: '3W Presence'
+    url: 'http://southsudanngoforum.org/3w'
+  - text: 'FAQs'
+    url: '/frequently-asked-questions/'
+  - text: 'Contact Us'
+    url: '/contact-us/'
 
 # forms & links
 membership_registration_form: ""

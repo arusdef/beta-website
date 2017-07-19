@@ -6,7 +6,6 @@
     {% else %}
         {% assign theme_base_url = site.data.global.url %}
     {% endif %}
-
     <base href="{{ theme_base_url }}" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,8 +13,7 @@
     <meta name="Keywords" content="{{ site.data.global.keywords }}">
     <meta name="description" content="{{ site.data.global.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | prepend: theme_base_url }}">
-    <link rel="icon" type="image/ico" href="/favicon.ico">
-    
+    <link rel="icon" type="image/ico" href="favicon.ico">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
@@ -29,10 +27,9 @@
     <link rel="stylesheet" href="assets/js/plugins/owl-carousel/owl.transitions.css">
     <link rel="stylesheet" href="assets/js/plugins/easy-responsive-tabs/easyresponsivetabs.css">
     <link rel="stylesheet" href="assets/js/plugins/magnific-popup/jquery.magnific-popup.css">
-
-
-        <!-- Loading Modenizr -->
-        <script src="assets/js/modernizr.min.js"></script>
+    
+    <!-- Loading Modenizr -->
+    <script src="assets/js/modernizr.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -49,7 +46,7 @@
         </div>
         <nav id="nav">
             <a href="#" id="nav-toggle" title="Navigation"><i class="fa fa-bars"></i></a>
-            {% include nav.html %}
+            {% include nav.html nav=site.data.nav.main children=true %}
         </nav>
     </div>
 </header>
@@ -87,7 +84,7 @@
         <div class="q-row">
             <div class="q-col-2-3">
                 <nav id="nav-footer-primary">
-                    {% include nav.html %}
+                    {% include nav.html nav=site.data.nav.main children=false %}
                 </nav>
                 <nav id="nav-footer-secondary">
                     <a href="/what-we-do/membership-policy" class="btn-link" target="_blank">Membership Policy</a> | 

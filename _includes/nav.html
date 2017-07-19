@@ -1,12 +1,16 @@
+{% assign navurl = page.url | remove: 'index.html' %}
 <ul>
-	{% for link in site.data.nav.main %}
-	<li {% if page.url == link.url %} class="active" {% endif %}>
+{% for link in include.nav %}
+	<li{% if page.url == link.url %} class="active" {% endif %}>
 		{% if link.url contains 'http://' %}
 			{% assign pageurl = link.url %}
 		{% else %}
 			{% assign pageurl =  link.url | prepend: site.baseurl  %}
 		{% endif %}
 		<a href="{{ pageurl }}">{{ link.text }}</a>
-	</li>
-	{% endfor %}
+    	{% if include.children and link.subitems and navurl contains link.url %}
+    		{% include nav.html nav=link.subitems %}
+    	{% endif %}
+    </li>
+{% endfor %}
 </ul>

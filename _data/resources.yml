@@ -5,14 +5,22 @@
 - title: "NNGO Operational Presence 3W"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://southsudanngoforum.org/3w-nngo"
-  
-- title: "Communications Portal"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://comms.southsudanngoforum.org/"  
-  
+   
 - title: "Documents Repository"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   url: "http://docs.southsudanngoforum.org/"
+
+- title: "Tender Advertisements"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://comms.southsudanngoforum.org/c/tenders" 
+
+- title: "Job Advertisements"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://comms.southsudanngoforum.org/c/jobs/" 
+
+- title: "Courses & Trainings"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  url: "http://comms.southsudanngoforum.org/c/capacity-development" 
 
 - title: "South Sudan Knowledge Network"
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
