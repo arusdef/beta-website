@@ -1,4 +1,4 @@
-mode: production 
+mode: production
 
 # Admin Settings
 admin_name: 'Information Manager'
@@ -13,6 +13,7 @@ keywords: "South Sudan, NGO, NNGO, Information, Humanitarian, Development, Job, 
 
 dev_url: http://localhost:4000/
 url: http://southsudanngoforum.org/beta-website/
+# url: http://localhost:4000/
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

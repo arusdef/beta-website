@@ -1,68 +1,68 @@
+- title: "Membership Registration"
+  description: "Register with NGO Forum and join many other NGOs and other partners."
+  url: "https://goo.gl/forms/XYcswkyOXJMBEBfL2"
+
+- title: "Security Incidents"
+  description: "This is a form to report the Security incidents. Your message should be short and to the point, providing the 6Ws. Who, where, when, what happened, what you did, what you need."
+  url: "https://docs.google.com/forms/d/1rICS4K_w2WpXDss0B-gb74j_9kgDy4oODi13IKOq6wc/viewform?usp=send_form"
+
 - title: "Tender Advertisements"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "This a message board where our partners submit tender advertisements."
   url: "http://comms.southsudanngoforum.org/c/tenders" 
 
 - title: "Job Advertisements"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "This a message board where our partners submit job applications."
   url: "http://comms.southsudanngoforum.org/c/jobs/" 
 
-- title: "Courses & Trainings"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://comms.southsudanngoforum.org/c/capacity-development" 
-
-- title: "Legislations & Regulations"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://docs.southsudanngoforum.org/regulation"
-
-- title: "coordination"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://docs.southsudanngoforum.org/coordination"
-
-- title: "Security Incidents"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "https://docs.google.com/forms/d/1rICS4K_w2WpXDss0B-gb74j_9kgDy4oODi13IKOq6wc/viewform?usp=send_form"
-
-- title: "Access Constrains"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/13xBnAkH07grMOqrsCIobWxteX5wmrS5f0xOl-x88k0w/viewform"
-
-- title: "Emergency Relocation Forms"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/14dEkJF3oIA_LmlNq6FBVD5YpuRW8lwABQ1_0pfvUeF0/viewform?"
-
-- title: "Incidents of Sexual Violence against Staff"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "https://docs.google.com/forms/d/e/1FAIpQLScfEwG-JXWsuFr5gqIpqAI5m3EirB1sQ7GX2Y52yM102tvNIg/viewform"
-
-- title: "Regulations"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "http://docs.southsudanngoforum.org/regulation"
-
 - title: "INGO Operational Presence 3W"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "3W Data Visualization for International NGOs at County Level"
   url: "http://southsudanngoforum.org/3w"
 
 - title: "NNGO Operational Presence 3W"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "3W Data Visualization for National NGOs at County Level"
   url: "http://southsudanngoforum.org/3w-nngo"
-   
+
+- title: "Legislations & Regulations"
+  description: "NGO Forum repository of government circulars, Legislations and Regulatory guidance."
+  url: "http://docs.southsudanngoforum.org/regulation"
+
+- title: "coordination"
+  description: "NGO Forum  repositoy of coordination guidance documents"
+  url: "http://docs.southsudanngoforum.org/coordination"
+
+- title: "Access Constrains"
+  description: "Report your Access Constrains"
+  url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/13xBnAkH07grMOqrsCIobWxteX5wmrS5f0xOl-x88k0w/viewform"
+
+# - title: "Emergency Relocation Forms"
+#   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   url: "https://docs.google.com/a/southsudanngoforum.org/forms/d/14dEkJF3oIA_LmlNq6FBVD5YpuRW8lwABQ1_0pfvUeF0/viewform?"
+
+- title: "Incidents of Sexual Violence against Staff"
+  description: "Report incidents of sexual Violence."
+  url: "https://docs.google.com/forms/d/e/1FAIpQLScfEwG-JXWsuFr5gqIpqAI5m3EirB1sQ7GX2Y52yM102tvNIg/viewform"
+
+- title: "Courses & Trainings"
+  description: "This a message board where Courses and Trainings are advertised."
+  url: "http://comms.southsudanngoforum.org/c/capacity-development" 
+
 - title: "South Sudan Knowledge Network"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "The South Sudan Knowledge Network is an information platform where research on South Sudan is collected and housed. It is a one stop shop for research conducted on South Sudan that is available for public access."
   url: "http://southsudanknowledgenetwork.org/"
 
 - title: "Operations Dashboard"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Livemap of NGO Operations"
   url: "http://southsudanngoforum.org/OperationsDashboard/"
 
-- title: "INGO 3W:OP mobile app"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  url: "https://build.phonegap.com/apps/1614016/share/"
+# - title: "INGO 3W:OP mobile app"
+#   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   url: "https://build.phonegap.com/apps/1614016/share/"
 
 - title: "13 stories for World Humanitarian Day"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Humanitarian stories from member NGOs on World Humanitarian Day"
   url: "http://southsudanngoforum.org/WorldHumanitarianDay/"
   
 - title: "National NGO Capicity Development Tool"
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "This tool will help provide qualitative and quantitative information that will inform the NNGO capacity status debate."
   url: "http://www.nngocaptool.org/"
   

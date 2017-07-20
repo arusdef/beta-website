@@ -221,9 +221,16 @@ h6 {
 .button:active.button-outline,
 .button:visited.button-outline {
 	padding: 8px 13px;
+	color: #054469;
+	border: 2px solid #054469;
+	background-color: transparent;
+}
+.button.button-white,
+.button:focus.button-white,
+.button:active.button-white,
+.button:visited.button-white {
 	color: #fff;
 	border: 2px solid #fff;
-	background-color: transparent;
 }
 .button.button-outline:hover,
 .button:focus.button-outline:hover,
